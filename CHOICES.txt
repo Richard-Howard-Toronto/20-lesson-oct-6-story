@@ -7,4 +7,5 @@ Fourth Choice: ___1_
 Fifth Choice: ___4a_
 In 4a.md I choose 5b.md
 5b was wrong so I chose 5c
-now I am in story 8 and I will choose 5d
+I deleted "now I am in story 8 and I will choose 5d" and did
+add. commit -m "I have done a new story8"
